@@ -45,6 +45,6 @@ Estoy constantemente aprendiendo nuevas tecnologías y técnicas para mejorar mi
 - **Mejorar mis habilidades en bases de datos**: Estoy profundizando en la optimización y el diseño de bases de datos más eficientes.
 - **Seguir desarrollándome como full-stack developer**: Aprender más sobre nuevas tecnologías de frontend y backend.
 
-Gracias por visitar mi perfil. Si tienes alguna pregunta o estás interesado en colaborar, ¡no dudes en contactarme!
+Gracias por visitar mi perfil. Si tienes alguna pregunta o estás interesado en colaborar, ¡No dudes en contactarme!
 
 ---
